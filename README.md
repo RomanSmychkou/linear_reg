@@ -1,2 +1,2 @@
-# linear_reg
-Linear regression implemented in cpp/python
+# Линейная регрессия
+Линейная регрессия сделанная на cpp/python
